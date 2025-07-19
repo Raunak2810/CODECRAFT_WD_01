@@ -12,6 +12,7 @@ A basic web page created during my internship, designed using HTML and CSS. It i
 ## 📂 Project Structure
 
 PROJECT/
+
 │── index.html # Main HTML file
 │── style.css # Styling for the webpage
 │── images/ # Image assets used in the project
