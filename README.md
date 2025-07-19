@@ -35,8 +35,11 @@ PROJECT/
 ## 👤 Author
 
 Raunak Mishra 
-GitHub: [Raunak2810](https://github.com/your-Raunak2810)  
+
+GitHub: [Raunak2810](https://github.com/your-Raunak2810) 
+
 Linkedin: raunak-mishra-80a931331
+
 Gmail: raunakmishrabxr@gmail.com
 
 
