@@ -18,6 +18,7 @@ PROJECT/
 └── images/           # Image assets used in the project  
     ├── 1st_image.jpg  
     └── 2nd_image.jpg  
+```
 
 
 ## 🛠 Tech Stack
@@ -33,5 +34,9 @@ PROJECT/
 
 ## 👤 Author
 
-Raunak Mishra  
-GitHub: [Raunak2810](https://github.com/Raunak2810)  
+Raunak Mishra 
+GitHub: [Raunak2810](https://github.com/your-Raunak2810)  
+Linkedin: raunak-mishra-80a931331
+Gmail: raunakmishrabxr@gmail.com
+
+
