@@ -11,13 +11,13 @@ A basic web page created during my internship, designed using HTML and CSS. It i
 
 ## 📂 Project Structure
 
+```plaintext
 PROJECT/
-
-│── index.html # Main HTML file
-│── style.css # Styling for the webpage
-│── images/ # Image assets used in the project
-│ ├── 1st_image.jpg
-│ └── 2nd_image.jpg
+├── index.html        # Main HTML file  
+├── style.css         # Styling for the webpage  
+└── images/           # Image assets used in the project  
+    ├── 1st_image.jpg  
+    └── 2nd_image.jpg  
 
 
 ## 🛠 Tech Stack
