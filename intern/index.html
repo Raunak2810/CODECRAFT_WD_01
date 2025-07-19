@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Raunak Mishra | Web Developer</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <!-- Navbar -->
+  <header id="header">
+    <nav class="navbar">
+      <div class="logo">Raunak</div>
+      <ul class="nav-links">
+        <li><a href="#home">Home</a></li>
+        <li><a href="#about">About</a></li>
+        <li><a href="#projects">Projects</a></li>
+        <li><a href="#contact">Contact</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <!-- Hero Section -->
+  <section id="home" class="hero">
+    <div class="hero-text">
+      <h1>Hi, I'm <span>Raunak</span></h1>
+      <p class="typed-text">Web Enthusiast | Front-End Developer | Learner</p>
+      <a href="#projects" class="btn">View Projects</a>
+    </div>
+    <div class="hero-img">
+      <img src="images\2nd_image.jpg" alt="Developer Image" />
+    </div>
+  </section>
+
+  <!-- About -->
+  <section id="about" class="about">
+    <h2>About Me</h2>
+    <p>
+      I'm Raunak Mishra, an enthusiastic web developer with a creative mind.
+      I love designing interactive websites and blending technology with creativity.
+    </p>
+  </section>
+
+  <!-- Projects -->
+  <section id="projects" class="projects">
+    <h2>Projects</h2>
+    <div class="project-card">
+      <img src="images\1st_image.jpg" alt="Project"/>
+      <div class="project-info">
+        <h3>Responsive Landing Page</h3>
+        <p>Modern, mobile-first landing page with smooth animations and interactive navbar.</p>
+      </div>
+    </div>
+  </section>
+
+  <!-- Contact -->
+  <section id="contact" class="contact">
+    <h2>Contact Me</h2>
+    <p>raunakmishrabxr@gmail.com | LinkedIn: @raunak-mishra-80a931331</p>
+  </section>
+
+  <script>
+    // Scroll Nav Effect
+    window.addEventListener("scroll", function () {
+      const header = document.getElementById("header");
+      header.classList.toggle("scrolled", window.scrollY > 50);
+    });
+  </script>
+
+</body>
+</html>
